@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-    paths: [ assets/github/stack.yml ]
 
 jobs:
   profile_stack:
