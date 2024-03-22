@@ -1,0 +1,19 @@
+name: 📚 Generate profile Stack
+
+on:
+  push:
+    branches:
+      - main
+    paths: [ assets/github/stack.yml ]
+
+jobs:
+  profile_stack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gleich/profile_stack@master
+        with:
+          path: assets/profile-stack.yml
+          badges: true
+          technology_emoji: 🛠️
+          project_emoji: ✨

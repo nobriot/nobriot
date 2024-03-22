@@ -1,0 +1,45 @@
+- name: C
+  logo: C
+  url: 'https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html'
+  color: '#A8B9CC'
+  projects:
+    - url: 'https://github.com/SiliconLabs/UnifySDK'
+
+- name: C++
+  logo: cplusplus
+  url: 'https://isocpp.org/'
+  color: '#A8B9CC'
+  projects:
+    - url: 'https://github.com/SiliconLabs/UnifySDK'
+
+- name: Rust
+  logo: rust
+  url: 'https://www.rust-lang.org/'
+  color: '#000000'
+  projects:
+    - url: 'https://github.com/SiliconLabs/UnifySDK'
+    - url: 'https://github.com/nobriot/schnecken_bot'
+
+- name: Python
+  logo: python
+  url: 'https://www.python.org/'
+  color: '#3776AB'
+  projects:
+    - url: 'https://github.com/SiliconLabs/UnifySDK'
+    - url: 'https://github.com/nobriot/web_explorer'
+
+- name: Markdown
+  logo: markdown
+  url: 'https://www.markdownguide.org/'
+  color: '#3776AB'
+  projects:
+    - url: 'https://github.com/SiliconLabs/UnifySDK'
+
+- name: PlantUML
+  logo: uml
+  url: 'https://plantuml.com/'
+  color: '#3776AB'
+  projects:
+    - url: 'https://github.com/SiliconLabs/UnifySDK'
+
+
