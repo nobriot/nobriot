@@ -1,4 +1,4 @@
-name: 📚 Generate profile Stack
+name: Generate profile Stack
 
 on:
   push:
@@ -13,6 +13,4 @@ jobs:
       - uses: gleich/profile_stack@master
         with:
           path: assets/profile-stack.yml
-          badges: true
-          technology_emoji: 🛠️
-          project_emoji: ✨
+          output_file: profile-stack.md

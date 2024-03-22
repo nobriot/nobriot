@@ -1,24 +1,43 @@
-- name: C
-  logo: C
-  url: 'https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html'
-  color: '#A8B9CC'
+- name: Golang
+  logo: go
+  url: https://golang.org/
+  color: '#7FD6EA'
   projects:
-    - url: 'https://github.com/SiliconLabs/UnifySDK'
+    - url: https://github.com/gleich/fgh
+    - url: https://github.com/gleich/gh_fsync
+    - url: https://github.com/gleich/nuke
+    - url: https://github.com/gleich/logoru
+    - url: https://github.com/gleich/statuser
 
-- name: C++
-  logo: cplusplus
-  url: 'https://isocpp.org/'
-  color: '#A8B9CC'
+- name: Python
+  logo: python
+  url: https://www.python.org/
+  color: '#3C78A9'
   projects:
-    - url: 'https://github.com/SiliconLabs/UnifySDK'
+    - url: https://github.com/gleich/profile_stack
+    - url: https://github.com/gleich/Contribution-Hat
 
-- name: Rust
-  logo: rust
-  url: 'https://www.rust-lang.org/'
-  color: '#000000'
-  projects:
-    - url: 'https://github.com/SiliconLabs/UnifySDK'
-    - url: 'https://github.com/nobriot/schnecken_bot'
+# - name: C
+#   logo: C
+#   url: 'https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html'
+#   color: '#A8B9CC'
+#   projects:
+#     - url: 'https://github.com/SiliconLabs/UnifySDK'
+
+# - name: C++
+#   logo: cplusplus
+#   url: 'https://isocpp.org/'
+#   color: '#A8B9CC'
+#   projects:
+#     - url: 'https://github.com/SiliconLabs/UnifySDK'
+
+# - name: Rust
+#   logo: rust
+#   url: 'https://www.rust-lang.org/'
+#   color: '#000000'
+#   projects:
+#     - url: 'https://github.com/SiliconLabs/UnifySDK'
+#     - url: 'https://github.com/nobriot/schnecken_bot'
 
 # - name: Python
 #   logo: python
