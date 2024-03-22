@@ -20,26 +20,24 @@
     - url: 'https://github.com/SiliconLabs/UnifySDK'
     - url: 'https://github.com/nobriot/schnecken_bot'
 
-- name: Python
-  logo: python
-  url: 'https://www.python.org/'
-  color: '#3776AB'
-  projects:
-    - url: 'https://github.com/SiliconLabs/UnifySDK'
-    - url: 'https://github.com/nobriot/web_explorer'
+# - name: Python
+#   logo: python
+#   url: 'https://www.python.org/'
+#   color: '#3776AB'
+#   projects:
+#     - url: 'https://github.com/SiliconLabs/UnifySDK'
+#     - url: 'https://github.com/nobriot/web_explorer'
 
-- name: Markdown
-  logo: markdown
-  url: 'https://www.markdownguide.org/'
-  color: '#3776AB'
-  projects:
-    - url: 'https://github.com/SiliconLabs/UnifySDK'
+# - name: Markdown
+#   logo: markdown
+#   url: 'https://www.markdownguide.org/'
+#   color: '#3776AB'
+#   projects:
+#     - url: 'https://github.com/SiliconLabs/UnifySDK'
 
-- name: PlantUML
-  logo: uml
-  url: 'https://plantuml.com/'
-  color: '#3776AB'
-  projects:
-    - url: 'https://github.com/SiliconLabs/UnifySDK'
-
-
+# - name: PlantUML
+#   logo: uml
+#   url: 'https://plantuml.com/'
+#   color: '#3776AB'
+#   projects:
+#     - url: 'https://github.com/SiliconLabs/UnifySDK'
