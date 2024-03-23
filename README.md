@@ -1,11 +1,13 @@
-<h1 align=center>👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Nicolas</h1>
+<h1 align=center>👋 Hey there! Did you get lost ?? 😜</h1>
 
 If you want to see my CV, have a look [here](https://nico-ow.dk/)
 
 Not too much to see on my personal GitHub,
 but here are my GitHub and languages stats:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nobriot&show_icons=true&theme=onedark&hide_border=false&rank_icon=github" alt="Nicolas' github stats" /></a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobriot&layout=normal&theme=onedark&hide_border=false" alt="Nicolas' languages stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nobriot&show_icons=true&theme=onedark&hide_border=false&rank_icon=github" alt="Nicolas' github stats" />
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobriot&layout=normal&theme=onedark&hide_border=false" alt="Nicolas' languages stats" />
 
 <!--
 **nobriot/nobriot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
