@@ -2,6 +2,7 @@
 
 If you want to see my CV, have a look [here](https://nico-ow.dk/)
 
+<!-- Stack --> 
 <details>
   <summary><b>🛠️ What I like to work with</b></summary>
   <p align=center>
@@ -16,6 +17,24 @@ If you want to see my CV, have a look [here](https://nico-ow.dk/)
   </p>
 </details>
 
+<!-- Bike garage --> 
+<details>
+  <summary><b>🚲 Bike garage</b></summary>
+  <p>
+    Nothing to do with GitHub, but why not ?? 🤪<br>
+    Have not own a car since 2012, and will never again. This is the future, and you should consider doing the same!
+    If you are riding your car all around ... <strong>shame on you !</strong><br><br>
+    Here are my babies:
+  </p>
+
+  <ul>
+    <li>Canyon Inflite CF SL 6 (2024)</li>
+    <li>Scott Scale 930 (2017)</li>
+    <li>Cube Acid 29 (2013)</li>
+  </ul>
+</details>
+
+<!-- GitHub stats --> 
 <details>
   <summary><b>📊 GitHub stats</b></summary>
   <p>
