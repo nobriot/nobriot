@@ -43,7 +43,8 @@ If you want to see my CV, have a look [here](https://nico-ow.dk/)
   <summary><b>📊 GitHub stats</b></summary>
   <p>
     <br>
-    Not too much to see on my personal GitHub, but here are the stats:
+    Not too much to see on my personal GitHub, but here are the stats:<br>
+    <img src="https://komarev.com/ghpvc/?username=nobriot" alt="Profile visit counter" />
   </p>
 
   <p align="center">
