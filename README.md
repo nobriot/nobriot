@@ -1,4 +1,7 @@
-<h1 align=center>👋 Hey there! Did you get lost ?? 😜</h1>
+<h1 align=center>
+  Hey there! 👋<br>
+  <small>Did you get lost ?? 😜</small>
+</h1>
 
 If you want to see my CV, have a look [here](https://nico-ow.dk/)
 
@@ -21,6 +24,7 @@ If you want to see my CV, have a look [here](https://nico-ow.dk/)
 <details>
   <summary><b>🚲 Bike garage</b></summary>
   <p>
+    <br>
     Nothing to do with GitHub, but why not ?? 🤪<br>
     Have not own a car since 2012, and will never again. This is the future, and you should consider doing the same!
     If you are riding your car all around ... <strong>shame on you !</strong><br><br>
@@ -38,6 +42,7 @@ If you want to see my CV, have a look [here](https://nico-ow.dk/)
 <details>
   <summary><b>📊 GitHub stats</b></summary>
   <p>
+    <br>
     Not too much to see on my personal GitHub, but here are the stats:
   </p>
 
