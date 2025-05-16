@@ -32,6 +32,7 @@ If you want to see my CV, have a look [here](https://nico-ow.dk/)
   </p>
 
   <ul>
+    <li>Canondale Scalpel HT Carbon 4 (2025)</li>
     <li>Canyon Inflite CF SL 6 (2024)</li>
     <li><s>Scott Scale 930 (2017)</s> Stolen 💔❤️‍🩹💔</li>
     <li>Cube Acid 29 (2013)</li>
